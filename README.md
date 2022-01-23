@@ -23,7 +23,18 @@
 
 <p>
   <a href="https://coderstats.net/github/#s-rigaud">
-    <img width="55%" align="right" alt="Samuel's github stats" src="https://github-readme-stats.vercel.app/api?username=s-rigaud&show_icons=true&hide_border=true" />
+    <img
+         width="55%"
+         align="left"
+         alt="Samuel's github stats"
+         src="https://github-readme-stats.vercel.app/api?username=s-rigaud&show_icons=true&hide_border=true"
+    />
+    <img
+         width="40%"
+         align="right"
+         alt="Samuel's github language stats"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rigaud&hide=html&hide_border=true"
+    />
   </a>
 
 
