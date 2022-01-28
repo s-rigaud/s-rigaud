@@ -113,4 +113,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=s-rigaud&repo=cocktail_party_maker&hide_border=true&theme=vision-friendly-dark"
     />
   </a>
+  <p></p>
+  <a href="https://github.com/s-rigaud/s-rigaud/blob/main/PROJECTS.MD">My best projects are detailed here 🏆</a>
 </div>
