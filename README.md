@@ -50,7 +50,7 @@
 <div align="left">
   <img
     width="33%"
-    src="assets/js.png"
+    src="./assets/js.png"
   />
   <img
     width="33%"
@@ -66,11 +66,11 @@
   />
   <img
     width="32%"
-    src="assets/django.png"
+    src="./assets/django.png"
   />
   <img
     width="33%"
-    src="assets/flask.png"
+    src="./assets/flask.png"
   />
   <img
     width="33%"
