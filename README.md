@@ -1,6 +1,8 @@
 <!-- This readme was created by Samuel RIGAUD - https://github.com/s-rigaud -->
 
-# Hi, I'm a full stack developer and student living in France 🍀
+# Hi, I'm Sam 👋
+
+### A full stack developer and student living in France 🍀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/s-rigaud)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rigaud/)

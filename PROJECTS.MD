@@ -12,16 +12,16 @@
 
 ## Table of contents <a name="content-table"></a>
 
-1. [2021-2022 | 2nd year of MIAGE master program](#2021-2022)
-2. [2020-2021 | 1st year of MIAGE master program](#2020-2021)
-3. [2019-2020 | 3rd year of MIAGE bachelor program](#2019-2020)
-4. [2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#2018-2019)
-5. [2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#2017-2018)
-6. [2016-2017 | A Level with a minor in CS](#2016-2017)
+1. [2021-2022 | 2nd year of MIAGE master program](#M2MIAGE)
+2. [2020-2021 | 1st year of MIAGE master program](#M1MIAGE)
+3. [2019-2020 | 3rd year of MIAGE bachelor program](#L3MIAGE)
+4. [2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#IUT2)
+5. [2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#IUT1)
+6. [2016-2017 | A Level with a minor in CS](#ALEVEL)
 
-## [2. 2020-2021 | 1st year of MIAGE master program](#content-table)
+## [1. 2021-2022 | 2nd year of MIAGE master program](#content-table) <a name="M2MIAGE"></a>
 
-## [2. 2020-2021 | 1st year of MIAGE master program](#content-table)
+## [2. 2020-2021 | 1st year of MIAGE master program](#content-table) <a name="M1MIAGE"></a>
 
 ### 🎒 [TinyPet](https://github.com/s-rigaud/frontend_cloud)
 
@@ -50,7 +50,7 @@ Creating many interactive maps to visualize medium housing prices of different F
 
 Building a C application with a central stock server and clients regurlarly updating their stocks on the plateform. Built using TCP sockets.
 
-## [3. 2019-2020 | 3rd year of MIAGE bachelor program](#content-table)
+## [3. 2019-2020 | 3rd year of MIAGE bachelor program](#content-table) <a name="L3MIAGE"></a>
 
 ### 🎒 e-commerce plateform
 
@@ -64,7 +64,7 @@ The goal was to provide a terminal friendly interface to manipulate a e-commerce
 
 Replica of the French carpooling website [blablacar.com](https://www.blablacar.com/). The project contains authentification features as wee as car reservation, trip planing and most convenient and shortest trip algorithm.
 
-## [4. 2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#content-table)
+## [4. 2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#content-table) <a name="IUT2"></a>
 
 ### 🎒 CDA / LOTR theme movie website
 
@@ -90,7 +90,7 @@ Generating a UI with multiple windows, rules and functionnalities. Also prototyp
 
 Improving the existing project with more complex requests like division, optimised indexes, triggers and more.
 
-## [5. 2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#content-table)
+## [5. 2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#content-table) <a name="IUT1"></a>
 
 ### 🎒 Blokus board game
 
@@ -110,7 +110,7 @@ First approach to behavioral design patterns like `State`, `Strategy` and `Visit
 
 Designing and orchestarting a database model to handle boats, places and reservations in a port. I discovered basic Oracle SQL syntax, constraints, relations and DBMS.
 
-## [6. 2016-2017 | A Level with a minor in CS](#content-table)
+## [6. 2016-2017 | A Level with a minor in CS](#content-table) <a name="ALEVEL"></a>
 
 ### 🎒 Mon premier programme (my first program)
 
