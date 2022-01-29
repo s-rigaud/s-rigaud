@@ -106,6 +106,7 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=s-rigaud&repo=square_game&hide_border=true&theme=vision-friendly-dark"
     />
   </a>
+
   <a href="https://github.com/s-rigaud/cocktail_party_maker">
     <img
       width="45%"
@@ -113,6 +114,7 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=s-rigaud&repo=cocktail_party_maker&hide_border=true&theme=vision-friendly-dark"
     />
   </a>
-  <p></p>
-  <a href="https://github.com/s-rigaud/s-rigaud/blob/main/PROJECTS.MD">My best projects are detailed here 🏆</a>
+
+#### [My best projects are detailed here 🏆](https://github.com/s-rigaud/s-rigaud/blob/main/PROJECTS.MD)
+
 </div>

@@ -1,26 +1,28 @@
 # All my most notable CS projects since I started programming in 2016
 
-🎒 Scholar projects
-
-👨‍💻 Personal projects
+🎒 **Scholar projects**  
+👨‍💻 **Personal projects**  
 
 ## Table of contents <a name="content-table"></a>
 
-1. [2021-2022 | 2nd year of MIAGE master program](#M2MIAGE)
-2. [2020-2021 | 1st year of MIAGE master program](#M1MIAGE)
-3. [2019-2020 | 3rd year of MIAGE bachelor program](#L3MIAGE)
-4. [2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#IUT2)
-5. [2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#IUT1)
-6. [2016-2017 | A Level with a minor in CS](#ALEVEL)
+**[2021-2022 | 2nd year of MIAGE master program](#M2MIAGE)**  
+**[2020-2021 | 1st year of MIAGE master program](#M1MIAGE)**  
+**[2019-2020 | 3rd year of MIAGE bachelor program](#L3MIAGE)**  
+**[2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#IUT2)**  
+**[2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#IUT1)**  
+**[2016-2017 | A Level with a minor in CS](#ALEVEL)**  
 
 ## [1. 2021-2022 | 2nd year of MIAGE master program](#content-table) <a name="M2MIAGE"></a>
-
-### More to come ... (M.I.A.G.E, placesearcher, ....)
 
 ### 🎒 [RoguelikeGenerator](https://github.com/Vanane/RoguelikeGenerator)
 
 <p>
-    <img alt = "Java" src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown&style=flatsquare">
+    <a href="https://www.youtube.com/watch?v=l9AzO1FMgM8" target="_blank">
+        <img
+            alt = "Java"
+            src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown"
+        >
+    </a>
     <a href="https://github.com/trystan/AsciiPanel" target="_blank">
         <img alt = "AsciiPanel" src="https://img.shields.io/static/v1?label=%20&message=AsciiPanel&color=brown">
     </a>
@@ -34,12 +36,19 @@
 
 We had to find an idea for a plugin oriented architecture project. We developed a game were other developers can add their own plugin and improve the standard Roguelike gameplay we created. Other developers can add their own GUI, tiles, creatures, ...
 
+### More to come ... (M.I.A.G.E, placesearcher, ....)
+
 ## [2. 2020-2021 | 1st year of MIAGE master program](#content-table) <a name="M1MIAGE"></a>
 
 ### 🎒 [TinyPet](https://github.com/s-rigaud/frontend_cloud)
 
 <p>
-    <img alt = "Java EE" src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown">
+    <a href="https://www.youtube.com/watch?v=l9AzO1FMgM8" target="_blank">
+        <img
+            alt = "Java EE"
+            src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown"
+        >
+    </a>
     <a href="https://github.com/DiUS/java-faker" target="_blank">
         <img alt = "Faker" src="https://img.shields.io/static/v1?label=%20&message=Faker&color=brown">
     </a>
@@ -49,7 +58,12 @@ We had to find an idea for a plugin oriented architecture project. We developed 
 </p>
 
 <p>
-    <img alt = "JavaScript" src="https://img.shields.io/static/v1?label=%E2%98%84%EF%B8%8F&message=JavaScript&color=yellow">
+    <a href="https://www.youtube.com/watch?v=DHjqpvDnNGE" target="_blank">
+        <img
+            alt = "JavaScript"
+            src="https://img.shields.io/static/v1?label=%E2%80%8E&message=JavaScript&color=yellow&logo=JavaScript"
+        >
+    </a>
     <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">
         <img alt = "Bootstrap 4" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap 4&color=yellow">
     </a>
@@ -62,7 +76,12 @@ We had to find an idea for a plugin oriented architecture project. We developed 
 </p>
 
 <p>
-    <img alt = "GCP" src="https://img.shields.io/static/v1?label=%E2%98%81&message=GCP&color=white">
+    <a href="https://cloud.google.com/" target="_blank">
+        <img
+            alt = "GCP"
+            src="https://img.shields.io/static/v1?label=%E2%80%8E&message=GCP&color=white&logo=Google%20Cloud&logoColor=white"
+        >
+    </a>
 </p>
 
 We had to create a scalable website and backend architecture using full potential of Google GCP. The app was a website where you can sign various petitions.
@@ -70,14 +89,24 @@ We had to create a scalable website and backend architecture using full potentia
 ### 🎒 [LEGO Lejos ColorSorter](https://github.com/s-rigaud/leJOS_ColorSorter)
 
 <p>
-    <img alt = "Java" src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown">
+    <a href="https://www.youtube.com/watch?v=l9AzO1FMgM8" target="_blank">
+        <img
+            alt = "Java"
+            src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown"
+        >
+    </a>
     <a href="https://lejos.sourceforge.io/" target="_blank">
         <img alt = "Lejos" src="https://img.shields.io/static/v1?label=%20&message=Lejos&color=brown">
     </a>
 </p>
 
 <p>
-    <img alt = "Kotlin" src="https://img.shields.io/static/v1?label=%F0%9F%93%B1&message=Kotlin&color=orange">
+    <a href="https://www.youtube.com/watch?v=xT8oP0wy-A0" target="_blank">
+        <img
+            alt = "Kotlin"
+            src="https://img.shields.io/static/v1?label=%F0%9F%93%B1&message=Kotlin&color=orange"
+        >
+    </a>
 </p>
 
 Given the hardware to assemble the LEGO Ev3 Mindstorm robot, we had to build the structure, to code a java program to execute instructions and a mobile app to send them. The goal was to send instructions on the mobile via Wifi or Bluetooth, the robot will follow them and move physically its components to sort color bricks.
@@ -85,7 +114,12 @@ Given the hardware to assemble the LEGO Ev3 Mindstorm robot, we had to build the
 ### 🎒 [OpenData](https://github.com/s-rigaud/OpenData)
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/folium/" target="_blank">
         <img alt = "folium" src="https://img.shields.io/static/v1?label=%20&message=folium&color=blue">
     </a>
@@ -102,7 +136,12 @@ Creating many interactive maps to visualize medium housing prices of various Fre
 ### 🎒 Stock Manager 101
 
 <p>
-    <img alt = "C" src="https://img.shields.io/static/v1?label=%E2%9A%99%EF%B8%8F&message=C&color=black">
+    <a href="https://www.youtube.com/watch?v=U3aXWizDbQ4" target="_blank">
+        <img
+            alt = "C"
+            src="https://img.shields.io/static/v1?label=%E2%9A%99%EF%B8%8F&message=C&color=black"
+        >
+    </a>
     <a href="https://www.geeksforgeeks.org/socket-programming-cc/" target="_blank">
         <img alt = "socket" src="https://img.shields.io/static/v1?label=%20&message=socket&color=black">
     </a>
@@ -113,7 +152,12 @@ Building a C application with a central stock server and clients regularly updat
 ### 👨‍💻 TF2_Table
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/flask/" target="_blank">
         <img alt = "flask" src="https://img.shields.io/static/v1?label=%20&message=flask&color=blue">
     </a>
@@ -130,7 +174,12 @@ Team Fortress 2 game trading table created to automate exchange and make profit 
 ### 👨‍💻 Square Game (Dot & Boxes)
 
 <p>
-    <img alt = "JavaScript" src="https://img.shields.io/static/v1?label=%E2%98%84%EF%B8%8F&message=JavaScript&color=yellow">
+    <a href="https://www.youtube.com/watch?v=DHjqpvDnNGE" target="_blank">
+        <img
+            alt = "JavaScript"
+            src="https://img.shields.io/static/v1?label=%E2%80%8E&message=JavaScript&color=yellow&logo=JavaScript"
+        >
+    </a>
     <a href="https://www.npmjs.com/package/express" target="_blank">
         <img alt = "Express" src="https://img.shields.io/static/v1?label=%20&message=Expresso&color=yellow">
     </a>
@@ -155,7 +204,12 @@ Dot & Boxes game implementation for two players. You can play the game in a two 
 ### 🎒 e-commerce platform
 
 <p>
-    <img alt = "Cobol" src="https://img.shields.io/static/v1?label=%F0%9F%A7%B1&message=Cobol&color=brown">
+    <a href="https://www.youtube.com/watch?v=7d7-etf-wNI" target="_blank">
+        <img
+            alt = "Cobol"
+            src="https://img.shields.io/static/v1?label=%F0%9F%A7%B1&message=Cobol&color=brown"
+        >
+    </a>
 </p>
 
 The goal was to provide a terminal friendly interface to manipulate a e-commerce stock system. Designing and optimizing file access to find the optimum file accesses and readings. Setting indexes to improve queries with specific metrics.
@@ -163,22 +217,37 @@ The goal was to provide a terminal friendly interface to manipulate a e-commerce
 ### 🎒 [BlablaMIAGE](https://github.com/s-rigaud/blablamiage/tree/master/public/js)
 
 <p>
-    <img alt = "PHP" src="https://img.shields.io/static/v1?label=%F0%9F%90%98&message=PHP&color=purple">
+    <a href="https://www.youtube.com/watch?v=a7_WFUlFS94" target="_blank">
+        <img
+            alt = "PHP"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%98&message=PHP&color=purple"
+        >
+    </a>
     <a href="https://symfony.com/" target="_blank">
         <img alt = "Symfony" src="https://img.shields.io/static/v1?label=%20&message=Symfony&color=purple">
     </a>
 </p>
 
 <p>
-    <img alt = "JavaScript" src="https://img.shields.io/static/v1?label=%E2%98%84%EF%B8%8F&message=JavaScript&color=yellow">
+    <a href="https://www.youtube.com/watch?v=DHjqpvDnNGE" target="_blank">
+        <img
+            alt = "JavaScript"
+            src="https://img.shields.io/static/v1?label=%E2%80%8E&message=JavaScript&color=yellow&logo=JavaScript"
+        >
+    </a>
 </p>
 
-Replica of the French carpooling website [blablacar.com](https://www.blablacar.com/). The project contains authentification features as wee as car reservation, trip planing and most convenient and shortest trip algorithm.
+Replica of the French carpooling website [blablacar.com](https://www.blablacar.com/). The project contains authentification features as well as car reservation, trip planing and most convenient and shortest trip algorithm.
 
 ### 👨‍💻 [Rolit](https://github.com/s-rigaud/Rolit)
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/pillow/" target="_blank">
         <img alt = "pillow" src="https://img.shields.io/static/v1?label=%20&message=pillow&color=blue">
     </a>
@@ -192,14 +261,24 @@ I created a two player Rolit board game. You can also play with an AI implementi
 ### 👨‍💻 [Movie manager](https://github.com/s-rigaud/movie-manager)
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/flask/" target="_blank">
         <img alt = "flask" src="https://img.shields.io/static/v1?label=%20&message=flask&color=blue">
     </a>
 </p>
 
 <p>
-    <img alt = "JavaScript" src="https://img.shields.io/static/v1?label=%E2%98%84%EF%B8%8F&message=JavaScript&color=yellow">
+    <a href="https://www.youtube.com/watch?v=DHjqpvDnNGE" target="_blank">
+        <img
+            alt = "JavaScript"
+            src="https://img.shields.io/static/v1?label=%E2%80%8E&message=JavaScript&color=yellow&logo=JavaScript"
+        >
+    </a>
     <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">
         <img alt = "Bootstrap 4" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap 4&color=yellow">
     </a>
@@ -223,7 +302,12 @@ I built a management website when you can manage movies and ratings.
 ### 🎒 CDA / LOTR theme movie website
 
 <p>
-    <img alt = "PHP" src="https://img.shields.io/static/v1?label=%F0%9F%90%98&message=PHP&color=purple">
+    <a href="https://www.youtube.com/watch?v=a7_WFUlFS94" target="_blank">
+        <img
+            alt = "PHP"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%98&message=PHP&color=purple"
+        >
+    </a>
     <a href="https://symfony.com/" target="_blank">
         <img alt = "Symfony" src="https://img.shields.io/static/v1?label=%20&message=Symfony&color=purple">
     </a>
@@ -234,7 +318,12 @@ The project's goal was to create an LOTR inspired website displaying quizzes abo
 ### 🎒 South Park slurs
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/flask/" target="_blank">
         <img alt = "flask" src="https://img.shields.io/static/v1?label=%20&message=flask&color=blue">
     </a>
@@ -257,7 +346,12 @@ Using a corpus of the millions of sentences from South Park. The project aims to
 ### 🎒 Ephemeris
 
 <p>
-    <img alt = "Java" src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown">
+    <a href="https://www.youtube.com/watch?v=l9AzO1FMgM8" target="_blank">
+        <img
+            alt = "Java"
+            src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown"
+        >
+    </a>
     <a href="https://fr.wikipedia.org/wiki/Swing_(Java)" target="_blank">
         <img alt = "Swing" src="https://img.shields.io/static/v1?label=%20&message=Swing&color=brown">
     </a>
@@ -268,7 +362,12 @@ Generating a UI with multiple windows, rules and functionalities. Also prototypi
 ### 🎒 Improved PortDB
 
 <p>
-    <img alt = "PL / SQL" src="https://img.shields.io/static/v1?label=%F0%9F%92%BE&message=PL%20/%20SQL&color=red">
+    <a href="https://www.youtube.com/watch?v=zsjvFFKOm3c" target="_blank">
+        <img
+            alt = "PL / SQL"
+            src="https://img.shields.io/static/v1?label=%F0%9F%92%BE&message=PL%20/%20SQL&color=red"
+        >
+    </a>
 </p>
 
 Improving the existing project with more complex requests like division, optimised indexes, triggers and more.
@@ -277,7 +376,12 @@ Improving the existing project with more complex requests like division, optimis
 ### 👨‍💻 Trading
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/alpha-vantage/" target="_blank">
         <img alt = "alpha_vantage" src="https://img.shields.io/static/v1?label=%20&message=alpha_vantage&color=blue">
     </a>
@@ -309,7 +413,12 @@ Create candlestick sharts for stock prices. Automate the process of gathering re
 ### 👨‍💻 [pyTelloSDK](https://github.com/s-rigaud/pyTelloSDK)
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/pillow/" target="_blank">
         <img alt = "pillow" src="https://img.shields.io/static/v1?label=%20&message=pillow&color=blue">
     </a>
@@ -328,7 +437,12 @@ My internship was part of the modeling project of the Halden fortress in Norway.
 ### 🎒 Blokus board game
 
 <p>
-    <img alt = "C++" src="https://img.shields.io/static/v1?label=%E2%9A%99%EF%B8%8F&message=C%2B%2B&color=black">
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+        <img
+            alt = "C++"
+            src="https://img.shields.io/static/v1?label=%E2%9A%99%EF%B8%8F&message=C%2B%2B&color=black"
+        >
+    </a>
 </p>
 
 Blokus game with pieces, colours and rotation on a grid. Everything displayed in a terminal.
@@ -336,7 +450,12 @@ Blokus game with pieces, colours and rotation on a grid. Everything displayed in
 ### 🎒 ATM state
 
 <p>
-    <img alt = "Java" src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown">
+    <a href="https://www.youtube.com/watch?v=l9AzO1FMgM8" target="_blank">
+        <img
+            alt = "Java"
+            src="https://img.shields.io/static/v1?label=%E2%98%95&message=Java&color=brown"
+        >
+    </a>
 </p>
 
 Fundamental approach to behavioral design patterns like `State`, `Strategy` and `Visitor`. As well as creational and structural patterns as the `Factory`, `Singleton`, `Adapter` and `Composite` ones.
@@ -344,7 +463,12 @@ Fundamental approach to behavioral design patterns like `State`, `Strategy` and 
 ### 🎒 PortDB
 
 <p>
-    <img alt = "SQL" src="https://img.shields.io/static/v1?label=%F0%9F%92%BE&message=SQL&color=red">
+    <a href="https://www.youtube.com/watch?v=zsjvFFKOm3c" target="_blank">
+        <img
+            alt = "SQL"
+            src="https://img.shields.io/static/v1?label=%F0%9F%92%BE&message=SQL&color=red"
+        >
+    </a>
 </p>
 
 Designing and orchestrating a database model to handle boats, places and reservations in a port. I discovered basic Oracle SQL syntax, constraints, relations and DBMS.
@@ -352,7 +476,12 @@ Designing and orchestrating a database model to handle boats, places and reserva
 ### 👨‍💻 Sorting algorithms
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/tkinter/" target="_blank">
         <img alt = "tkinter" src="https://img.shields.io/static/v1?label=%20&message=tkinter&color=blue">
     </a>
@@ -365,7 +494,12 @@ Visual representation of sorting algorithms in Python.
 ### 🎒 Sudoku solver
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="https://pypi.org/project/tkinter/" target="_blank">
         <img alt = "tkinter" src="https://img.shields.io/static/v1?label=%20&message=tkinter&color=blue">
     </a>
@@ -376,7 +510,12 @@ Really basic sudoku solver. The user can fill and interact with the grid, and th
 ### 🎒 Mon premier programme (my first program)
 
 <p>
-    <img alt = "Python" src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue">
+    <a href="https://www.youtube.com/watch?v=x7X9w_GIm1s" target="_blank">
+        <img
+            alt = "Python"
+            src="https://img.shields.io/static/v1?label=%F0%9F%90%8D&message=Python&color=blue"
+        >
+    </a>
     <a href="#" target="_blank">
         <img alt = "turtle" src="https://img.shields.io/static/v1?label=%20&message=turtle&color=blue">
     </a>
