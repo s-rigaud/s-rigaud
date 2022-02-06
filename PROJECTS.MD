@@ -1,18 +1,20 @@
 # All my most notable CS projects since I started programming in 2016
 
-🎒 **Scholar projects**  
-👨‍💻 **Personal projects**  
+<p align="center">
+    🎒 Scholar projects
+    👨‍💻 Personal projects
+</p>
 
 ## Table of contents <a name="content-table"></a>
 
-**[2021-2022 | 2nd year of MIAGE master program](#M2MIAGE)**  
-**[2020-2021 | 1st year of MIAGE master program](#M1MIAGE)**  
-**[2019-2020 | 3rd year of MIAGE bachelor program](#L3MIAGE)**  
-**[2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#IUT2)**  
-**[2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#IUT1)**  
-**[2016-2017 | A Level with a minor in CS](#ALEVEL)**  
+* **[2021-22 => 2nd year of MIAGE master program](#M2MIAGE)**  
+* **[2020-21 => 1st year of MIAGE master program](#M1MIAGE)**  
+* **[2019-20 => 3rd year of MIAGE bachelor program](#L3MIAGE)**  
+* **[2018-19 => 2nd year of technical CS/IT program - IUT Informatique](#IUT2)**  
+* **[2017-18 => 1st year of technical CS/IT program - IUT Informatique](#IUT1)**  
+* **[2016-17 => A Level with a minor in CS](#ALEVEL)**  
 
-## [2021-2022 | 2nd year of MIAGE master program](#content-table) <a name="M2MIAGE"></a>
+## [2021-22 | 2nd year of MIAGE master program](#content-table) <a name="M2MIAGE"></a>
 
 ### 🎒 [RoguelikeGenerator](https://github.com/Vanane/RoguelikeGenerator)
 
@@ -38,7 +40,7 @@ We had to find an idea for a plugin oriented architecture project. We developed 
 
 **_More to come ... (M.I.A.G.E, placesearcher, ....)_**
 
-## [2020-2021 | 1st year of MIAGE master program](#content-table) <a name="M1MIAGE"></a>
+## [2020-21 | 1st year of MIAGE master program](#content-table) <a name="M1MIAGE"></a>
 
 ### 🎒 [TinyPet](https://github.com/s-rigaud/frontend_cloud)
 
@@ -53,7 +55,7 @@ We had to find an idea for a plugin oriented architecture project. We developed 
         <img alt = "Faker" src="https://img.shields.io/static/v1?label=%20&message=Faker&color=brown">
     </a>
     <a href="https://cloud.google.com/endpoints/docs/frameworks/java/about-cloud-endpoints-frameworks" target="_blank">
-        <img alt = "Google Cloud Endpoints" src="https://img.shields.io/static/v1?label=%20&message=Google Cloud Endpoints&color=brown">
+        <img alt = "Google Cloud Endpoints" src="https://img.shields.io/static/v1?label=%20&message=Google%20Cloud%20Endpoints&color=brown">
     </a>
 </p>
 
@@ -65,13 +67,13 @@ We had to find an idea for a plugin oriented architecture project. We developed 
         >
     </a>
     <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">
-        <img alt = "Bootstrap 4" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap 4&color=yellow">
+        <img alt = "Bootstrap 4" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap%204&color=yellow">
     </a>
     <a href="https://reactjs.org/" target="_blank">
         <img alt = "ReactJS" src="https://img.shields.io/static/v1?label=%20&message=ReactJS&color=yellow">
     </a>
     <a href="https://react.semantic-ui.com/" target="_blank">
-        <img alt = "Semantic UI" src="https://img.shields.io/static/v1?label=%20&message=Semantic UI&color=yellow">
+        <img alt = "Semantic UI" src="https://img.shields.io/static/v1?label=%20&message=Semantic%20UI&color=yellow">
     </a>
 </p>
 
@@ -171,7 +173,7 @@ Building a C application with a central stock server and clients regularly updat
 
 Team Fortress 2 game trading table created to automate exchange and make profit by gathering informations of many websites.
 
-### 👨‍💻 Square Game (Dot & Boxes)
+### 👨‍💻 [Square Game (Dot & Boxes)](https://github.com/s-rigaud/square_game)
 
 <p>
     <a href="https://www.youtube.com/watch?v=DHjqpvDnNGE" target="_blank">
@@ -190,7 +192,7 @@ Team Fortress 2 game trading table created to automate exchange and make profit 
         <img alt = "ReactJS" src="https://img.shields.io/static/v1?label=%20&message=ReactJS&color=yellow">
     </a>
     <a href="https://react.semantic-ui.com/" target="_blank">
-        <img alt = "Semantic UI" src="https://img.shields.io/static/v1?label=%20&message=Semantic UI&color=yellow">
+        <img alt = "Semantic UI" src="https://img.shields.io/static/v1?label=%20&message=Semantic%20UI&color=yellow">
     </a>
     <a href="https://www.npmjs.com/package/socket.io" target="_blank">
         <img alt = "Socket.io" src="https://img.shields.io/static/v1?label=%20&message=Socket.io&color=yellow">
@@ -199,7 +201,7 @@ Team Fortress 2 game trading table created to automate exchange and make profit 
 
 Dot & Boxes game implementation for two players. You can play the game in a two different browsers and the actions are transmitted using socket.io messages.
 
-## [2019-2020 | 3rd year of MIAGE bachelor program](#content-table) <a name="L3MIAGE"></a>
+## [2019-20 | 3rd year of MIAGE bachelor program](#content-table) <a name="L3MIAGE"></a>
 
 ### 🎒 e-commerce platform
 
@@ -280,7 +282,7 @@ I created a two player Rolit board game. You can also play with an AI implementi
         >
     </a>
     <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">
-        <img alt = "Bootstrap 4" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap 4&color=yellow">
+        <img alt = "Bootstrap 4" src="https://img.shields.io/static/v1?label=%20&message=Bootstrap%204&color=yellow">
     </a>
     <a href="https://www.npmjs.com/package/faker" target="_blank">
         <img alt = "Faker" src="https://img.shields.io/static/v1?label=%20&message=Faker&color=yellow">
@@ -289,7 +291,7 @@ I created a two player Rolit board game. You can also play with an AI implementi
         <img alt = "ReactJS" src="https://img.shields.io/static/v1?label=%20&message=ReactJS&color=yellow">
     </a>
     <a href="https://react.semantic-ui.com/" target="_blank">
-        <img alt = "Semantic UI" src="https://img.shields.io/static/v1?label=%20&message=Semantic UI&color=yellow">
+        <img alt = "Semantic UI" src="https://img.shields.io/static/v1?label=%20&message=Semantic%20UI&color=yellow">
     </a>
 </p>
 
@@ -297,7 +299,7 @@ I built a management website when you can manage movies and ratings.
 
 ![Demo movie](https://github.com/s-rigaud/flask_react/blob/master/demo.gif)
 
-## [2018-2019 | 2nd year of technical CS/IT program - IUT Informatique](#content-table) <a name="IUT2"></a>
+## [2018-19 | 2nd year of technical CS/IT program - IUT Informatique](#content-table) <a name="IUT2"></a>
 
 ### 🎒 CDA / LOTR theme movie website
 
@@ -432,7 +434,7 @@ My internship was part of the modeling project of the Halden fortress in Norway.
 - Manage the video streams received from the Tello drones (conversion, image analysis)
 - Organize and manage the whole process of design and development for Tello part (Git/Agile/SCRUM, Trello)
 
-## [2017-2018 | 1st year of technical CS/IT program - IUT Informatique](#content-table) <a name="IUT1"></a>
+## [2017-18 | 1st year of technical CS/IT program - IUT Informatique](#content-table) <a name="IUT1"></a>
 
 ### 🎒 Blokus board game
 
@@ -489,7 +491,7 @@ Designing and orchestrating a database model to handle boats, places and reserva
 
 Visual representation of sorting algorithms in Python.
 
-## [2016-2017 | A Level with a minor in CS](#content-table) <a name="ALEVEL"></a>
+## [2016-17 | A Level with a minor in CS](#content-table) <a name="ALEVEL"></a>
 
 ### 🎒 Sudoku solver
 
