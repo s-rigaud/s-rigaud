@@ -15,7 +15,7 @@
   src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
 />
 
-### Personal details:
+## Personal details:
 
 👓 I’m currently working for **[Lengow](https://www.lengow.com/en)** as a Django developer in the e-commerce industry
 
@@ -27,7 +27,12 @@
 
 📫 How to reach me: DM on [LinkedIn](https://www.linkedin.com/in/samuel-rigaud/) or PR on my projects
 
-### GitHub activity:
+## 🚀 Projects
+
+#### [My best projects are detailed here 🏆](https://github.com/s-rigaud/s-rigaud/blob/main/PROJECTS.MD)
+
+
+## ⚙️ Technologies
 
 <div>
   <a href="https://coderstats.net/github/#s-rigaud">
@@ -49,72 +54,23 @@
 <!-- Weird hack to add extra line sparator -->
 <p>⠀</p>
 
-<div align="left">
-  <img
-    width="33%"
-    src="./assets/js.png"
-  />
-  <img
-    width="33%"
-    src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
-  />
-  <img
-    width="32%"
-    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"
-  />
-  <img
-    width="33%"
-    src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
-  />
-  <img
-    width="32%"
-    src="./assets/django.png"
-  />
-  <img
-    width="33%"
-    src="./assets/flask.png"
-  />
-  <img
-    width="33%"
-    src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"
-  />
-  <img
-    width="33%"
-    src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"
-  />
-  <img
-    width="32%"
-    src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"
-  />
-  <img
-    width="33%"
-    src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
-  />
-  <img
-    width="33%"
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
-  />
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
 
-### Last major projects
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 
-<div>
-  <a href="https://github.com/s-rigaud/square_game">
-    <img
-      width="45%"
-      alt="[Dot & Boxes game implementation for multiplayer with room management (SocketIO/React/Express/NodeJS)"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=s-rigaud&repo=square_game&hide_border=true&theme=vision-friendly-dark"
-    />
-  </a>
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-  <a href="https://github.com/s-rigaud/cocktail_party_maker">
-    <img
-      width="45%"
-      alt="Cocktail management website (ReactJS/Django/MySQL)"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=s-rigaud&repo=cocktail_party_maker&hide_border=true&theme=vision-friendly-dark"
-    />
-  </a>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-336791?style=flat-square&logo=redis)
+![GCP](https://img.shields.io/badge/-GCP-336791?style=flat-square&logo=gcp)
 
-#### [My best projects are detailed here 🏆](https://github.com/s-rigaud/s-rigaud/blob/main/PROJECTS.MD)
-
-</div>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=flat-square&logo=ubuntu)
+![Github](https://img.shields.io/badge/Github-red?style=flat-square&logo=github)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=flat-square&logo=jenkins)
+![Docker](https://img.shields.io/badge/Docker-red?style=flat-square&logo=docker)
+![Sentry](https://img.shields.io/badge/Sentry-red?style=flat-square&logo=sentry)
