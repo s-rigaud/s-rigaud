@@ -178,7 +178,7 @@
 <p>
     <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
         <img alt="CI/CD tools"
-            src="https://img.shields.io/static/v1?label=%E2%80%8E&message=CI/CD&color=603601&logo=awesome-lists&logoColor=603601">
+            src="https://img.shields.io/static/v1?label=%F0%9F%94%80&message=CI/CD&color=603601">
     </a>
     <a href="https://www.youtube.com/watch?v=Gjnup-PuquQ" target="_blank">
         <img alt="Docker" src="https://img.shields.io/static/v1?label=%20&message=Docker&color=603601">
@@ -194,5 +194,25 @@
     </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img alt="Ubuntu" src="https://img.shields.io/static/v1?label=%20&message=Ubuntu&color=603601">
+    </a>
+</p>
+
+## 🧠 Knowledge
+
+<p>
+    <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
+        <img alt="Architecture"
+            src="https://img.shields.io/static/v1?label=%F0%9F%A7%AD&message=Architecture&color=CDB699">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Design_Patterns" target="_blank">
+        <img alt="Design Patterns"
+            src="https://img.shields.io/static/v1?label=%20&message=Design Patterns&color=CDB699">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Unified_Modeling_Language" target="_blank">
+        <img alt="UML" src="https://img.shields.io/static/v1?label=%20&message=UML&color=CDB699">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Software_design" target="_blank">
+        <img alt="Software Design"
+            src="https://img.shields.io/static/v1?label=%20&message=Software Design&color=CDB699">
     </a>
 </p>
