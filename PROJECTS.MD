@@ -158,7 +158,7 @@ using TCP sockets.
     </a>
 </p>
 
-Team Fortress 2 game trading table created to automate exchange and make profit by gathering informations of many
+Team Fortress 2 game trading table created to automate exchange and make profit by gathering information of many
 websites.
 
 ### 👨‍💻 [Square Game (Dot & Boxes)](https://github.com/s-rigaud/square_game)
@@ -220,7 +220,7 @@ file access to find the optimum file accesses and readings. Setting indexes to i
 </p>
 
 Replica of the French carpooling website [blablacar.com](https://www.blablacar.com/). The project contains
-authentification features as well as car reservation, trip planing and most convenient and shortest trip algorithm.
+authentication features as well as car reservation, trip planing and most convenient and shortest trip algorithm.
 
 ### 👨‍💻 [Rolit](https://github.com/s-rigaud/Rolit)
 
@@ -339,7 +339,7 @@ based, column based or table based accesses.
     </a>
 </p>
 
-Improving the existing project with more complex requests like division, optimised indexes, triggers and more.
+Improving the existing project with more complex requests like division, optimized indexes, triggers and more.
 
 
 ### 👨‍💻 Trading
@@ -374,7 +374,7 @@ Improving the existing project with more complex requests like division, optimis
     </a>
 </p>
 
-Create candlestick sharts for stock prices. Automate the process of gathering reliable information from different
+Create candlestick charts for stock prices. Automate the process of gathering reliable information from different
 websites.
 
 ### 👨‍💻 [pyTelloSDK](https://github.com/s-rigaud/pyTelloSDK)
