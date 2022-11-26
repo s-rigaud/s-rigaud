@@ -17,7 +17,7 @@
 
 ## Personal details:
 
-👓 I’m currently working for **[Lengow](https://www.lengow.com/en)** as a Django developer in the e-commerce industry
+👓 I’m currently looking for a job working both with Python (Django/Flask) and Js (Vue, React, ...)
 
 📚 I am also studying to get my **MIAGE master degree**
 
@@ -34,13 +34,13 @@
 <div>
   <a href="https://coderstats.net/github/#s-rigaud">
     <img
-      width="55%"
+      width="45%"
       align="left"
       alt="Samuel's github stats"
       src="https://github-readme-stats.vercel.app/api?username=s-rigaud&show_icons=true&hide_border=true&theme=vision-friendly-dark"
     />
     <img
-      width="40%"
+      width="42%"
       align="right"
       alt="Samuel's github language stats"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-rigaud&hide=html&hide_border=true&layout=compact&theme=vision-friendly-dark"
