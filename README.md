@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/s-rigaud)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rigaud/)
 [![Views](https://views.whatilearened.today/views/github/s-rigaud/readme.svg)](https://github.com/s-rigaud)
-<a href="https://stackexchange.com/users/13620116/samuel-rigaud"><img src="https://stackexchange.com/users/flair/13620116.png" width="208" height="58" alt="profile for Samuel RIGAUD on Stack Exchanges" title="profile for Samuel RIGAUD on Stack Exchange" /></a>
+<a href="https://stackoverflow.com/users/9824913/samuel-rigaud"><img src="https://stackoverflow.com/users/flair/9824913.png?theme=dark" width="208" height="58" alt="profile for Samuel RIGAUD at Stack Overflow" title="profile for Samuel RIGAUD at Stack Overflow"></a>
 
 <img
   width="55%"
