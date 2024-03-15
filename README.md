@@ -9,6 +9,7 @@
 [![Views](https://views.whatilearened.today/views/github/s-rigaud/readme.svg)](https://github.com/s-rigaud)
 <a href="https://stackoverflow.com/users/9824913/samuel-rigaud"><img src="https://stackoverflow.com/users/flair/9824913.png?theme=dark" width="208" height="58" alt="profile for Samuel RIGAUD at Stack Overflow" title="profile for Samuel RIGAUD at Stack Overflow"></a>
 
+<br>
 <img
   width="55%"
   align="right"
